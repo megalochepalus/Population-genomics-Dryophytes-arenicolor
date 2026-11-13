@@ -27,5 +27,4 @@ This repository contains the code and data pipelines for the population genomics
 ---
 
 ### Code & Documentation
-Specific scripts and reproducible workflows can be found at the project website:
-🔗 [Population Genomics - Dryophytes arenicolor](https://megalochepalus.github.io/Population-genomics-Dryophytes-arenicolor/)
+Specific scripts and reproducible workflows can be found at the project website: [Population Genomics - Dryophytes arenicolor](https://megalochepalus.github.io/Population-genomics-Dryophytes-arenicolor/)
