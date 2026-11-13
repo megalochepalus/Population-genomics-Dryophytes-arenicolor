@@ -1,6 +1,6 @@
 ## Pipeline Summary & Workflow
 
-This repository contains the code and data pipelines for the population genomics and transcriptomic analysis of the work entitled "Genetic diversity, population structure and signatures of divergent selection in the canyon treefrog (*Dryophytes arenicolor*). Below is an overview of the methodological workflow:
+This repository contains the code and data pipelines for the population genomics and transcriptomic analysis of the work entitled "**Genetic diversity, population structure and signatures of divergent selection in the canyon treefrog (*Dryophytes arenicolor*)**". Below is an overview of the methodological workflow:
 
 ### 1. RNA Extraction & Sequencing
 * **Sampling:** Whole brains extracted from 76 individuals across three populations (Gosner stage 42; Hernández-Herrera et al., 2024) preserved in RNAlater at -20°C.
